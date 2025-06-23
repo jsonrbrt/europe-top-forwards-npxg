@@ -34,12 +34,12 @@ This project ranks the top 10 forwards across Europe's Big 5 leagues based on th
 
 ## 📁 File Structure
 
-europe-top-forwards/
-> top_forwards_npxg_big_5_leagues.ipynb # Jupyter notebook with full code
-> viz/
-  > top_overperformers.png # Summary table
-  > npxg_scatter_light.png # Scatter plot
-> README.md
+europe_top_forwards_npxg_big_5_leagues/
+- top_forwards_npxg_big_5_leagues.ipynb # Jupyter notebook with full code
+- viz/
+  - top_overperformers.png # Summary table
+  - npxg_scatter_light.png # Scatter plot
+- README.md
 
 ---
 
