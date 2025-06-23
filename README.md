@@ -35,12 +35,11 @@ This project ranks the top 10 forwards across Europe's Big 5 leagues based on th
 ## 📁 File Structure
 
 europe-top-forwards/
-├── europe_top_forwards.ipynb # Jupyter notebook with full code
-├── visuals/
-│ ├── top10_table.png # Summary table
-│ └── npxg_scatter_light.png # Scatter plot
-├── README.md
-└── requirements.txt
+> top_forwards_npxg_big_5_leagues.ipynb # Jupyter notebook with full code
+> viz/
+  > top_overperformers.png # Summary table
+  > npxg_scatter_light.png # Scatter plot
+> README.md
 
 ---
 
@@ -60,4 +59,4 @@ Jason Robert
 ## ✅ To-Do
 
 - [ ] Add interactive dashboard (Plotly or Streamlit)
-- [ ] Publish full article on [LinkedIn or personal website](https://your-website.com)
+- [ ] Publish full article on [LinkedIn and personal website](https://your-website.com)
