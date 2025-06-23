@@ -18,7 +18,7 @@ This project ranks the top 10 forwards across Europe's Big 5 leagues based on th
     (circle size = minutes played)
 
 <p align="center">
-  <img src="visuals/npxg_scatter_light.png" alt="Europe's Most Lethal Attackers" width="700"/>
+  <img src="viz/npxg_scatter_light.png" alt="Europe's Most Lethal Attackers" width="700"/>
 </p>
 
 ---
